@@ -29,7 +29,4 @@ npm run dev
 
 Below is a demo of Schedura in action:
 
-<video width="100%" controls>
-  <source src="Schedura.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![til](Schedura.gif)
